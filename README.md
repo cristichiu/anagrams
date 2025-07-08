@@ -2,6 +2,10 @@
 
 This program identifies and groups anagrams from a given input file.
 
+## Design decisions
+
+For more details, see the [Design Decisions](DESIGN_DECISION.md).
+
 ## Objective
 
 The objective of this task is to develop a Python program that identifies and groups anagrams from a given input file. Two words are considered anagrams if they contain the same letters but in a different order (e.g., "race" and "care").
